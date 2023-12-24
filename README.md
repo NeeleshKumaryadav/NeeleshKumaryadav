@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN,Data Structures and Algorithms, Object Oriented Programming**
 
-- 📫 How to reach me **yneelesh738@gmail.com**
+- 📫 How to reach me **yneelesh7388@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
