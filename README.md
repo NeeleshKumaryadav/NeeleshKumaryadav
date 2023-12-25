@@ -1,6 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)]
-<h1 align="center">Hi 👋, I'm Neelesh kr Yadav</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+![MasterHead](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
+<h1 align="center">Hii 👋, I'm Neelesh kr Yadav</h1>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeleshkumaryadav&label=Profile%20views&color=0e75b6&style=flat" alt="neeleshkumaryadav" /> </p>
 
